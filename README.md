@@ -1,2 +1,3 @@
-# ipl-tropies
+# ipl-trophies
+
 Created with CodeSandbox
